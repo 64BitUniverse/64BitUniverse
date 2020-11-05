@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+### ⚡ Fun fact: Don't take 17 credit hours.
+### 🔭 I’m currently working on Catacomb Snatch
 
 <!--
 **64BitUniverse/64BitUniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
