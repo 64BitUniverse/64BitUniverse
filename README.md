@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### ⚡ Fun fact: Don't take 17 credit hours.
 ### 🔭 I’m currently working on way too many projects, but mainly Catacomb Snatch and a Fabric Mod
-### 😄 I am a He/Him if you need to know
+### 💬 I am a He/Him if you need to know
 
 <!--
 **64BitUniverse/64BitUniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
