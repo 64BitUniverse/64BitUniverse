@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### ⚡ Fun fact: Don't take 17 credit hours.
-### 🔭 I’m currently trying to get past ADHD to work on Catacomb Snatch and a Fabric Mod
+### 🔭 I’m currently trying to actually complete a project
 ### 💬 I am a He/Him if you need to know
 ### I hope to eventually do something cool
 
